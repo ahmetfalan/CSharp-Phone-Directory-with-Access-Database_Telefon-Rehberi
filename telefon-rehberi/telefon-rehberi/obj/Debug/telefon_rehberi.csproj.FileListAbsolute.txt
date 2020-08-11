@@ -1,0 +1,12 @@
+C:\Users\ahmet\Desktop\telefon_rehberi\bin\Debug\telefon_rehberi.exe.config
+C:\Users\ahmet\Desktop\telefon_rehberi\bin\Debug\telefon_rehberi.exe
+C:\Users\ahmet\Desktop\telefon_rehberi\bin\Debug\telefon_rehberi.pdb
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.giris.resources
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.rehber.resources
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.Properties.Resources.resources
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.exe
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.pdb
+C:\Users\ahmet\Desktop\telefon_rehberi\obj\Debug\telefon_rehberi.uyeol.resources

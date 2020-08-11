@@ -1,0 +1,11 @@
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\obj\x86\Debug\telefon_rehberi.giris.resources
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\obj\x86\Debug\telefon_rehberi.Properties.Resources.resources
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\obj\x86\Debug\telefon_rehberi.rehber.resources
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\obj\x86\Debug\telefon_rehberi.uyeol.resources
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\obj\x86\Debug\telefon-rehberi.csproj.GenerateResource.Cache
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\bin\Debug\bin\Debug\database.accdb
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\bin\Debug\telefon-rehberi.exe.config
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\bin\Debug\telefon-rehberi.exe
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\bin\Debug\telefon-rehberi.pdb
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\obj\x86\Debug\telefon-rehberi.exe
+C:\Users\ahmet\Desktop\telefon-rehberi\telefon-rehberi\obj\x86\Debug\telefon-rehberi.pdb
